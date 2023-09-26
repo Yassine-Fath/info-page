@@ -6,4 +6,4 @@
    * task2-2
 
 
-![](img1/Absolute_Reality_v16_AN_ARABIC_LOOKING_GUY_IN_HIS_20S_WITH_A_C_0.jpg)
+![img1](Absolute_Reality_v16_AN_ARABIC_LOOKING_GUY_IN_HIS_20S_WITH_A_C_0.jpg)
